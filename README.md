@@ -37,7 +37,6 @@ GPIO.cleanup()
 
 12. Code pour Bouton PowerOFF :
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 # d'après https://fearby.com/article/using-python-to-use-buttons-on-the-pitft-plus-320x240-tft-touch>
 # et adapté à pigpio
 import pigpio
